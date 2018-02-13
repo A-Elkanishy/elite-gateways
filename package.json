@@ -1,7 +1,7 @@
 {
   "name": "elite-gateways",
   "version": "1.0.0",
-  "description": "A website for elite-gateways travel agency.",
+  "description": "A website for elite-gateways vacation club.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
