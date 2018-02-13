@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/OmarKRostom/elite-gateways/issues"
   },
-  "homepage": "https://github.com/OmarKRostom/elite-gateways#readme"
+  "homepage": "https://github.com/OmarKRostom/elite-gateways#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
